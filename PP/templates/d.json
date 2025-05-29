@@ -1,10 +1,10 @@
 {
     "federation": {
-        "name": "federation.png",
-        "x": 1065,
-        "y": -10300,
-        "width": 2671,
-        "height": 3138,
+        "name": "italy.png",
+        "x": 1187,
+        "y": -10097,
+        "width": 2177,
+        "height": 2947,
         "sectors": "false"
     }
 }
