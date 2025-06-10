@@ -6,5 +6,13 @@
         "width": 2177,
         "height": 2947,
         "sectors": "false"
+    },
+    "seaarts": {
+        "name": "seaarts.png",
+        "x": 1187,
+        "y": -10097,
+        "width": 2177,
+        "height": 2947,
+        "sectors": "false"
     }
 }
