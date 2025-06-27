@@ -14,5 +14,13 @@
         "width": 879,
         "height": 708,
         "sectors": "false"
+    },
+    "csa2": {
+        "name": "CSA2.png",
+        "x": 6245,
+        "y": -5798,
+        "width": 341,
+        "height": 372,
+        "sectors": "false"
     }
 }
