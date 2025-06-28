@@ -22,5 +22,13 @@
         "width": 341,
         "height": 372,
         "sectors": "false"
+    },
+    "ungheria": {
+        "name": "Ungheria.png",
+        "x": 2531,
+        "y": -10832,
+        "width": 2288,
+        "height": 1656,
+        "sectors": "false"
     }
 }
