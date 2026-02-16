@@ -1,26 +1,10 @@
 {
     "federation": {
         "name": "italy.png",
-        "x": 1005,
-        "y": -10097,
-        "width": 2177,
-        "height": 2947,
-        "sectors": "false"
-    },
-    "csa": {
-        "name": "CSA.png",
-        "x": -15185,
-        "y": -7073,
-        "width": 879,
-        "height": 708,
-        "sectors": "false"
-    },
-    "csa2": {
-        "name": "CSA2.png",
-        "x": 6245,
-        "y": -5798,
-        "width": 341,
-        "height": 372,
+        "x": 1004,
+        "y": -10297,
+        "width": 2736,
+        "height": 3150,
         "sectors": "false"
     }
 }
